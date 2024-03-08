@@ -181,7 +181,7 @@ db.day1Task.insertMany(
 )
 db.day1Task.find()
 
-//Collection Name - day1Task
+
 
 //1. Find all the information about each products
 
